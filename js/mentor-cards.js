@@ -2,13 +2,14 @@
 const mentors = [
 
     {
-        name: "Choomno Moos",
-        projectTag: "Algebra, Topology",
-        researchArea: "Algebra, Topology",
-        website: "",
-        researchDescription: "I am interested in the intersection of low-dimensional topology, representation theory, and physics sometimes dubbed 'quantum topology'.",
+        name: "Mike Gulas",
+        projectTag: "Analysis, Applied math",
+        researchArea: "Analysis, Applied math",
+        website: "https://mikegulas.wordpress.com/",
+        researchDescription: "I study fluid mechanics, this involves PDEs and analysis. Previous work I did was about quantum mechanics and Hilbert spaces.",
         projects: [
-            "I am open to a large range of projects. We will figure out a project together that suits your preparation and needs. In the past, I have done projects on knot theory, low-dimensional topology, representation theory, category theory, mathematical logic, and algebra."
+            "Hilbert Spaces, Fluid Mechanics, Applied Functional Analysis, Partial Differential Equations, Applied Analysis, Quantum Mechanics, Calculus of Variations",
+            "I am open to a large range of topics or projects. We can figure out something to work on together. "
         ]
     },
     {
@@ -18,24 +19,25 @@ const mentors = [
          website: "https://connorlane04.github.io/",
          researchDescription: "General terms: algebraic number theory and arithmetic geometry. Precise words: elliptic curves, Galois cohomology, arithmetic duality, Iwasawa theory. Relevant famous problems: The Birch and Swinnerton-Dyer Conjecture.",
          projects: [
-             "",
-             "Number Fields (ex. Marcus Number Fields or Neukirch Algebraic Number Theory)",
-             "p-adic Numbers (ex. Gouvea p-adic Analysis)",
-             "Elliptic Curves (ex. Tate-Silverman Rational Points on Elliptic Curves or Silverman Arithmetic of Elliptic Curves)",
-             "Class Field Theory (ex. Milne Class Field Theory)"
+             "p-adic numbers (ex. Gouvea p-adic analysis)",
+            "Elliptic Curves (ex. Tate-Silverman Rational Points on Elliptic Curves)",
+            "Algebraic number theory (ex. Marcus Number Fields)",
+            "Algebraic Geometry (ex. Cox Varieties Ideals and Algorithms)",
+            "More advanced options:",
+            "Class Field Theory (ex. Kedlaya's online notes)",
+            "Iwasawa Theory (ex. Washington Cyclotomic Fields)",
+            "Schemes (ex. Hartshorne Algebraic Geometry)"
          ]
      },
      {
-        name: "Arthur Jiang",
-         projectTag: "Analysis, Geometry",
-         researchArea: "Analysis, Geometry, Mathematical physics",
-         website: "https://arthurjphysics.github.io/",
-         researchDescription: "I'm interested in applications of geometry and functional analysis to physics, including GR and QFT.",
+        name: "Ruochen Xue",
+         projectTag: "Geometry",
+         researchArea: "Geometry",
+         website: "",
+         researchDescription: "Differential Geometry and Geometric Analysis",
          projects: [
-            "",
-            "Main topics: Smooth manifolds, Riemannian manifolds, Lie groups and Lie algebras, general relativity, quantum field theory",
-            "Sample books: Lee's textbooks on manifolds, Gravitation by MTW",
-            "Other topics: Tractor calculus and conformal geometry, von Neumann algebras",
+            "Hilbert Spaces, Fluid Mechanics, Applied Functional Analysis, Partial Differential Equations, Applied Analysis, Quantum Mechanics, Calculus of Variations",
+            "I am open to a large range of topics or projects. We can figure out something to work on together."
          ]
      },
     {
