@@ -152,10 +152,10 @@ const mentors = [
             "Fundamental Groups and Singular Homology (Algebraic Topology).",
             "Introduction to Algebraic K-groups",
             "Sheaf Cohomology (Algebraic Geometry)",
-            "Galois groups and Fundamental groups (Arithmetic Geometry)."
-            "Finite groups and Profinite Groups (Algebra)."
-            "Etale Cohomology Groups (Arithmetic Geometry)."
-            "Theory of Categories and Functor (Categories and Functor)."
+            "Galois groups and Fundamental groups (Arithmetic Geometry).",
+            "Finite groups and Profinite Groups (Algebra).",
+            "Etale Cohomology Groups (Arithmetic Geometry).",
+            "Theory of Categories and Functor (Categories and Functor).",
             "Introduction to Commutative Algebra (Algebra)."
          ]
      },
@@ -171,8 +171,8 @@ const mentors = [
             "\"Sobolev Inequalities, Heat Kernels under Ricci Flow, and the Poincare Conjecture\" Zhang",
             "\"Riemannian Geometry\" Sakai",
             "The Toponogov Comparison Theorem and its modern generalizations",
-            "\"Distributional Sectional Curvature Bounds for Riemannian Metrics of Low Regularity\" [EKOV26]"
-            "\"Buseman and MCP\" [FP26]"
+            "\"Distributional Sectional Curvature Bounds for Riemannian Metrics of Low Regularity\" [EKOV26]",
+            "\"Buseman and MCP\" [FP26]",
             "Besides, you may find me at my office SH6431D and choose books/ papers from my desk"
          ]
      },
