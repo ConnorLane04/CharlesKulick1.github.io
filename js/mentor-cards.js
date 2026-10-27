@@ -51,86 +51,112 @@ const mentors = [
          ]
      },
      {
-        name: "Alexander Sabater",
-         projectTag: "Applied",
-         researchArea: "Applied mathematics",
-         website: "",
-         researchDescription: "Machine learning techniques for numerical simulations of polymers",
+        name: "Sam Mundy",
+         projectTag: "Algebra, Number Theory",
+         researchArea: "Algebra, Number Theory",
+         website: "www.mundy.net/sam",
+         researchDescription: "Algebraic number theory, representation theory, and in between",
          projects: [
-            "Group actions and music theory (see Lewin and Fiore on transformational theory), xentonality and theory of dissonance (see Sethares - Tuning, Timbre, Spectrum, Scale and Deriushkin - Set theoretic solution for the tuning problem)."
+            "Modular forms, elliptic curves, or the connections between them. But these are just suggestions, and I'm pretty open!"
          ]
      },
      {
-        name: "Mike Gulas",
-         projectTag: "Analysis, Applied",
-         researchArea: "Analysis, Applied Mathematics, PDEs and Fluid Mechanics",
-         website: "https://mikegulas.wordpress.com/",
-         researchDescription: "I study fluid mechanics, this involves PDEs and analysis. Previous work I did was about quantum mechanics and Hilbert spaces. I would like to learn about stochastic differential equations this following year.",
-         projects: [
-            "Hilbert Spaces, Fluid Mechanics, Applied Functional Analysis, Partial Differential Equations, Differential Geometry and Partial Differential Equations, Stochastic Differential Equations"
-         ]
-     },
-     {
-        name: "Hasan M. El-Hasan",
+        name: "Santiago Adams",
          projectTag: "Geometry",
-         researchArea: "Geometry",
-         website: "https://www.hmelhasan.com",
-         researchDescription: "Comparison geometry for manifolds with positive and nonnegative curvature",
+         researchArea: "Analysis, Geometry, Topology",
+         website: "",
+         researchDescription: "My interests lie in the field of differential geometry, and the relationship between a (riemannian) manifold's geometry and topology. Usually that geometric structure is some sort of statement about its curvature. This idea, while simple to state so broadly, pulls widely from geometry, analysis and topology.",
          projects: [
-            "",
-            "Intrinsic vs extrinsic curvature of manifolds",
-            "A geometer's approach to general relativity",
-            "Survey of comparison theorems in Riemannian geometry",
+            "Some Textbooks:",
+            "Calculus on Manifolds by Michael Spivak",
+            "Riemannian Geometry by Gallot-Hulin-Lafontaine",
+            "Characteristic Classes by John Milnor",
+
+            "Some (other) Topics:",
+            "Gauss-Bonnet Theorem",
+            "Bonnet-Myer/Synge's Theorem",
+            "De Rham Cohomology/Hodge Theory",
+            "Cheeger-Gromoll Splitting Theorem,"
          ]
      },
      {
         name: "Andrew Ortegaray",
-         projectTag: "Algebra, Topology",
+         projectTag: "Algebra, Topology, Mathematical Physics",
          researchArea: "Algebra, Topology",
          website: "",
-         researchDescription: "I am broadly interested in algebra/topology and occasionally quantum variations.",
+         researchDescription: "I am broadly interested in quantum algebra/topology. ",
          projects: [
             "",
             "Reading through The Knot Book",
-            "Reading through Topology by Munkres",
             "Fourier Analysis on Finite Abelian Groups and Number Theoretic Transforms",
-            "Persistent Homology and Implementations",
-            'The Toric Code and Generalizations <a href="https://arxiv.org/abs/2506.15130v1">Link to Paper</a>',
-            'Arc Diagrams on 3-Manifold Spines <a href="https://arxiv.org/abs/2202.02007">Link to Paper</a>',
-            "Homological Algebra"
+            "The Toric Code and Generalizations",
+            "String Net Diagrams",
+            "Mathematical QFT",
+            "Homological Algebra",
+            "An Exploration of Classical Projective Geometry"
          ]
      },
      {
-        name: "Nayeong Kim",
-         projectTag: "Applied, Other",
-         researchArea: "Algebra",
-         website: "https://www.nayeong.dev/teaching/drp",
-         researchDescription: "I'm studying Topological Quantum Field Theory. Topological Quantum Field Theory (TQFT) studies the deep interplay between topology and algebra by assigning algebraic invariants—such as vector spaces and linear maps—to manifolds and their cobordisms in a way that is compatible with gluing. It provides a categorical framework connecting geometry, topology, and quantum physics, often realized through tensor categories and functorial constructions.",
-         projects: [
-            "Here are some suggestions and references.",
-            "Logics: Introduction to logics and Gödel's incompleteness theorem. We start from learning basic notion of set theory and move on to introduction to logics/model theory. Our goal is to understand Gödel's incompleteness theorem. References: <a href='https://people.maths.ox.ac.uk/bays/teaching/b1set/B1.2.pdf'>Set Theory</a>, <a href='https://github.com/hongseok-yang/logic25'>Logics</a>, <a href='https://adam.math.hhu.de/#/g/leanprover-community/nng4'>Lean Tutorial</a>",
-            "Applied Math: Grokking. Grokking in machine interpretability is a phenomenon where a machine learning model, after a long period of simply memorizing the training data, suddenly and rapidly generalizes to understand the underlying patterns and perform well on new, unseen data. References: <a href='https://www.neelnanda.io/grokking-paper'>Grokking</a>",
-            "Applied Math: Graph Learning. We will learn some concepts in graph learning and simplicial complex framework. References: <a href='https://arxiv.org/abs/2108.06547'>Paper</a>",
-         ]
-     },
-     {
-        name: "Cash Cherry",
-         projectTag: "Applied",
-         researchArea: "Applied mathematics",
+        name: "Arthur Jiang",
+         projectTag: "Geometry, Mathematical Physics",
+         researchArea: "Geometry, Mathematical Physics",
          website: "",
-         researchDescription: "I am interested in rigorous uncertainty quantification of and improvements to parameter estimation algorithms for (geo)physical inverse problems, particularly the nonlinear inverse problem posed by seismic imaging with Full Waveform Inversion.",
+         researchDescription: "I'm interested in applications of geometry to physics, including quantum field theory.",
          projects: [
-            "Kernel-based Approximation Methods, following the book Kernel-based Approximation Methods using MATLAB (A copy of the book will be provided). These ideas represent an application of mathematical theory to develop elegant computational methods with a wide range of applications. Depending on student interest and time, we can focus on applications in Inverse Problems, Operator Learning, Numerical Methods for PDEs, or Spatial Statistics, among other areas."
+            "The major developments of the 20th century reveals that geometry is the lingua franca of modern physics. Our two most predictive theories both contain significant geometric content, from the pseudo-Riemannian geometry of general relativity, to the gauge-theoretic Yang-Mills component within the standard model of particle physics.",
+
+            "I am happy to mentor students on potential projects exploring either side of this fruitful exchange of ideas. Some non-comprehensive examples include:",
+
+            "Physics-y math topics:",
+            "- Symplectic geometry",
+            "- Contact geometry",
+            "- Conformal geometry",
+
+            "Mathy physics topics:",
+            "- Non-abelian gauge theories (Yang-Mills)",
+            "- BRST quantization",
+
+            "I'm also open to new students interested in geometry, but perhaps don't have a specific project in mind."
          ]
      },
      {
-        name: "Charles Kulick",
+        name: "Hung Chang",
          projectTag: "Applied",
-         researchArea: "Applied mathematics, machine learning",
-         website: "https://web.math.ucsb.edu/~charleskulick/",
-         researchDescription: "I work on the accurate prediction of dynamics with data-driven methods, through applying both classical mathematical tools and new machine learning methods.",
+         researchArea: "Algebra, Number Theory",
+         website: "",
+         researchDescription: "I am interested in automorphic forms and Shimura varieties, especially their arithmetic aspects. My research involves (higher) Hida theory and p-adic L-functions.",
          projects: [
-            "We'll dive into modern machine learning from a mathematical perspective. I plan to survey recent seminal papers across multiple domains, examining common foundational theoretical frameworks and comparing the performance of various methods. We will place a particular emphasis on the transformer architecture and demystifying the mathematics of its operation. "
+            "Number fields, Local fields, Galois cohomology, Elliptic curves, Modular forms"
+         ]
+     },
+     {
+        name: "Jeremy Khoo",
+         projectTag: "Combinatorics",
+         researchArea: "Algebra, Topology",
+         website: "https://web.math.ucsb.edu/~charleskulick/",
+         researchDescription: "My work is on the Haefliger invariant associated to a smooth (4k-1)-sphere embedded in a 6k-sphere, and how it can be represented and estimated using geometric information. I use concepts from algebraic topology, as well as from differential topology and geometry. Outside of my work I'm interested in some problems involving combinatorics, graph theory or algebra",
+         projects: [
+            "Pursuit-evasion games on graphs. Possible starting texts include \"An Invitation to Pursuit-Evasion Games and Graph Theory\" by Anthony Bonato or \"The Game of Cops and Robbers on Graphs\" by Bonato and Nowakowski."
+         ]
+     },
+    {
+        name: "Jitendra Rathore",
+         projectTag: "Algebra, Number Theory",
+         researchArea: "Algebra, Number Theory, Algebraic and Arithmetic Geometry, Algebraic K-Theory",
+         website: "https://sites.google.com/view/jitendra-rathore/home",
+         researchDescription: "My mathematical research interests lie in the fields of algebraic geometry, algebraic K-theory, and arithmetic geometry. More specifically, I study various algebraic and arithmetic invariants, such as étale fundamental groups, algebraic K-groups, Brauer groups, Chow groups, and étale cohomology groups. These are important invariants associated with an algebraic variety and contain significant arithmetic information about the variety. The techniques I use to study these invariants come from algebra, topology, number theory, and algebraic geometry.",
+         projects: [
+            "I would be happy to mentor students on various projects lies in the fields of algebra, number theory and Topology. The following topics are considered a standard course in curriculum. It would be a good idea if a student would be able to do any of this course via DRP. Few potential topics for Reading Projects are as follows:",
+            "Introduction to Algebraic Varieties and Schemes (Algebraic Geometry).",
+            "Group Cohomology and Galois Cohomology (Number Theory).",
+            "Fundamental Groups and Singular Homology (Algebraic Topology).",
+            "Introduction to Algebraic K-groups",
+            "Sheaf Cohomology (Algebraic Geometry)",
+            "Galois groups and Fundamental groups (Arithmetic Geometry)."
+            "Finite groups and Profinite Groups (Algebra)."
+            "Etale Cohomology Groups (Arithmetic Geometry)."
+            "Theory of Categories and Functor (Categories and Functor)."
+            "Introduction to Commutative Algebra (Algebra)."
          ]
      },
      {
@@ -138,152 +164,50 @@ const mentors = [
          projectTag: "Geometry",
          researchArea: "Geometry",
          website: "https://sites.google.com/view/clivetszhongchan",
-         researchDescription: "My research interests lie in differential geometry and non-smooth geometry. Simply speaking, we can say that regular surfaces/ smooth manifolds are good because we can talk about differential calculus. How about an (ideal) ice-cream cone with a sharp tip? It is non-smooth but not as rough as a snowflake. In fact, it looks almost smooth. What can we talk about the geometry of these kinds of non-smooth but not-too-rough objects?",
+         researchDescription: "Differential geometry studies the application of differential calculus on geometry, and often interacts with different branch of mathematics such as measure theory, functional analysis, PDE, abstract algebra and topology. ",
          projects: [
-            "For a directed reading program I would be interested in reading some Ricci flow. I am also interested in the geometry of Poincare and Sobolev inequalities, but for this direction I have a (pretty long) list of books and papers, so I would like to discuss with the students on which one we should read. Note: this is geometry but we might not be able to visualize theorems all the time.",
-            "Differential Harnack Inequalities and the Ricci Flow (Müller)",
-            "Hamilton's Ricci Flow (Sheridan)",
-            "Poincare and Sobolev inequalities",
+            "One of the following, or inspired by students.",
+            "\"Conformal Differential Geometry: Q-Curvature and Conformal Holonomy\", Baum-Juhl",
+            "\"Sobolev Inequalities, Heat Kernels under Ricci Flow, and the Poincare Conjecture\" Zhang",
+            "\"Riemannian Geometry\" Sakai",
+            "The Toponogov Comparison Theorem and its modern generalizations",
+            "\"Distributional Sectional Curvature Bounds for Riemannian Metrics of Low Regularity\" [EKOV26]"
+            "\"Buseman and MCP\" [FP26]"
+            "Besides, you may find me at my office SH6431D and choose books/ papers from my desk"
          ]
      },
      {
-        name: "Christian Hong",
-         projectTag: "Analysis, Applied",
-         researchArea: "Analysis, Applied Mathematics",
+        name: "Hongjie David Zeng",
+         projectTag: "Algebra, Geometry",
+         researchArea: "Algebra, Geometry",
          website: "",
-         researchDescription: "I am interested in dispersive differential equations. I am also interested in harmonic analysis and other kinds of differential equations.",
+         researchDescription: "Algebraic geometry, complex geometry",
          projects: [
-            "Fourier Transform / Harmonic Analysis, Perturbation theory, Elliptic PDE, Wavelet theory, PDE in fluid mechanics, Kinetic theory (emphasis on the math)."
+            "1. Algebraic curves and Riemann surfaces, by Rick Miranda",
+            "2. Complex Geometry, by Daniel Huybrechts ",
+            "3. Toric varieties, by David A. Cox, John B. Little, and Henry K. Schenck"
          ]
      },
      {
-        name: "Kelsey Delk",
-         projectTag: "Algebra, Geometry, Topology",
-         researchArea: "Topology, Geometric Group Theory",
+        name: "Shuhan Li",
+         projectTag: "Applied Math",
+         researchArea: "Applied Math",
          website: "",
-         researchDescription: "I am interested in geometric group theory which tries to understand how groups act on spaces. I also like learning about small cancellation theory and basic topology and homology.",
+         researchDescription: "Machine learning, applied stochastic analysis",
          projects: [
-            "I was thinking that we could learn about a topic from \"Office Hours with a Geometric Group Theorist\" or I have my thesis from my Master's program that we can look at that studies small cancellation theory, Van Kampen Diagrams, and the word problem. I am also happy with just going through some topics from basic topology, homology, basic geometric group theory. I am pretty flexible with a potential project as long as I am familiar with it."
-         ]
-     },
-     {
-        name: "Jeremy Khoo",
-         projectTag: "Algebra, Topology, Other",
-         researchArea: "Algebra, Topology",
-         website: "",
-         researchDescription: "My research involves the geometric properties of special smooth embeddings of k-spheres into an n-sphere called Haefliger knots, which are determined up to isotopy by an integer-valued invariant and only exist for certain pairs (k,n). Currently I am trying to find bounds on this invariant based on geometric information about the embedding. Outside of my research I occasionally keep tabs on problems which involve combinatorics, algebra, or graph theory.",
-         projects: [
-            "Fair division problems, in particular fair division of rent for a multi-room apartment. A first paper will be Su, \"Rental Harmony: Sperner's Lemma in Fair Division\". We will also consider variations which may include: multiple occupants of the same room (rental harmony with roommates), occupants with budget constraints, or otherwise."
-         ]
-     },
-     {
-        name: "Joel Pion",
-         projectTag: "Algebra, Other",
-         researchArea: "Algebra, Algebraic Geometry, Combinatorics",
-         website: "",
-         researchDescription: "I do Algebraic Geometry in a derived category context. I also enjoy working on combinatorial puzzley research questions",
-         projects: [
-            "We could read Huybrechts Fourier Mukai Transforms or we could do a combinatorial research problem involving sensors and signalers."
-         ]
-     },
-     {
-        name: "Jitendra Rathore",
-         projectTag: "Algebra, Number Theory",
-         researchArea: "Algebra, Number Theory, Algebraic and Arithmetic Geometry, Algebraic K-Theory",
-         website: "https://sites.google.com/view/jitendra-rathore/home",
-         researchDescription: "My mathematical research interests lie in the fields of algebraic geometry, algebraic K-theory, and arithmetic geometry. More specifically, I study various algebraic and arithmetic invariants, such as étale fundamental groups, algebraic K-groups, Brauer groups, Chow groups, and étale cohomology groups. These are important invariants associated with an algebraic variety and contain significant arithmetic information about the variety. The techniques I use to study these invariants come from algebra, topology, number theory, and algebraic geometry.",
-         projects: [
-            "I would be happy to mentor students on various projects lies in the fields of algebra, number theory and Topology. Few potential topics for Reading Projects are as follows:",
-            "Algebraic Varieties (Algebraic Geometry).",
-            "Group Cohomology and Galois Cohomology (Number Theory).",
-            "Homotopy Groups (Algebraic Topology).",
-            "Singular Homology and Cohomology (Algebraic Topology).",
-            "Algebraic K-groups and their Connections to Number Theory (Algebraic K-groups).",
-            "Division Rings and the Theory of Brauer Group (Arithmetic Geometry).",
-            "Galois groups and Fundamental groups (Arithmetic Geometry).",
-            "Class Field Theory (Number Theory).",
-            "Profinite Groups (Algebra).",
-            "Etale Cohomology Groups (Arithmetic Geometry).",
-            "Theory of Categories and Functor (Categories and Functor).",
-            "Representation theory of Finite group (Group Theory)."
-         ]
-     },
-     {
-        name: "Meghan Lee",
-         projectTag: "Algebra, Number Theory, Other",
-         researchArea: "Algebra, Number Theory, Topology",
-         website: "https://meghanhlee.github.io/",
-         researchDescription: "I'm broadly interested in algebra, topology, and number theory. My recent projects have involved elliptic curves, modular curves, and Galois representations, and also computational tools in number theory.",
-         projects: [
-            "I'm planning to mentor a project on the basic theory of elliptic curves, using the book \"Rational Points on Elliptic Curves\" by Silverman and Tate. Topics will include the group structure of an elliptic curve, the Mordell-Weil Theorem, the Nagell-Lutz Theorem, and Mazur's Theorem. We can also discuss connections to factorization algorithms and cryptography. Advances in computing technology have contributed greatly to this area in the 21st century, so I think it'll be fun to supplement these topics with an introduction to some popular computational resources (including the Python package SageMath, the computer algebra software Magma, and the LMFDB database). No programming experience necessary!"
-         ]
-     },
-     {
-        name: "Rhea Palak Bakshi",
-         projectTag: "Topology",
-         researchArea: "Topology",
-         website: "https://rheapalakbakshi.com",
-         researchDescription: "My research interests are in quantum topology, low-dimensional topology, and knot theory. I focus primarily on the study of skein modules and skein algebras of 3-manifolds and their connections to algebraic geometry, hyperbolic geometry, categorification, Topological Quantum Field Theories, Jones-Wenzl projectors, and cluster algebras. More recently I have taken up an interest in skein lasagna modules, which are generalisations of the Khovanov and Khovanov-Rozansky homology theories to 4-manifolds with links in their boundary. I also study self-distributive structures, and their generalisations, whose axioms are motivated by the Reidemeister moves in knot theory. Quandles and racks are prime examples of such structures.",
-         projects: [
-            "",
-            "Categorification of skein modules",
-            "Quantum groups",
-            "Hyperbolic knot theory",
-            "Braid groups",
-            "SL_n and stated skein modules",
-            "Classical knot theory",
-         ]
-     },
-     {
-        name: "Michael Keith",
-         projectTag: "Analysis, Applied",
-         researchArea: "Analysis, Applied Mathematics",
-         website: "",
-         researchDescription: "My research lies at the interface of mathematics and the natural sciences. Our lab studies the packaging of DNA inside of bacteriophages—these are viruses that infect bacteria. On the biological side, I work on creating 3D reconstructions of viral proteins using cryo-electron microscopy (cryo-EM). On the mathematical side, I model the interactions between DNA and ions inside of the bacteriophage capsid. To this aim, I utilise tools from the calculus of variations, numerical analysis, PDEs, and the theory of liquid crystals to derive an energy for and to analyse the DNA-ion system. Then, I validate my results experimentally via single-particle analysis following image collection from cryo-EM. Together, science and mathematics help us glean info about how life works, which is essential to our development of treatments for disease and for understanding how living and non-living things interact.",
-         projects: [
-            "Some things we can do include learning the fundamentals for the Calculus of Variations, applying it to simple/model problems, and/or reading a paper related to my research and reproducing the results. <br><br>Readings: <br><br>Topics in Applied Mathematics and Modeling: Concise Theory with Case Studies (Oscar Gonzalez) <br><br>Helical organization of DNA-like liquid crystal filaments in cylindrical viral capsids (Liu et al., 2022)"
+            "Machine learning, applied stochastic analysis"
          ]
      },
      {
         name: "Alex Bisnath",
-         projectTag: "Algebra, Geometry, Topology, Other",
-         researchArea: "Analysis, Geometry, Physics, Gauge Theory, QFT, String Theory",
+         projectTag: "Mathematical Physics",
+         researchArea: "Algebra, Applied Math, Geometry, Mathematical Physics, Quantum Field Theory, Gauge Theory, String Theory, Sigma Models",
          website: "",
-         researchDescription: "Anything related to mathematical physics! QFT, Gauge Theory, String Theory. Differential Geometry, 3 Manifolds, Ricci Flow.",
+         researchDescription: "I'm primarily focused on mathematical aspects of quantum field theories. I'm interested in topics including: group theory, lie theory, commutative algebra, algebraic geometry, differential geometry, (pseudo)-Riemannian geometry. In the past, I've worked with deep neural networks, including bayesian neural networks.",
          projects: [
-            "The Dirac Equation, Representation Theory in Physics, The Poincare Group and its Representations, Spin / spinors, Gauge Theory, Algebraic Topology in Low Energy Physics"
+            "Topics from popular math physics books like Geometry, Topology and Physics by Nakahara, or Gauge Fields, Knots, and Gravity by Baez are exactly the kind of thing that would be good for a DRP project."
          ]
      },
-     {
-        name: "Jia-Lin Hsu",
-         projectTag: "Geometry",
-         researchArea: "Geometry",
-         website: "",
-         researchDescription: "My research is in geometric analysis, with a primary focus on geometric flows and their applications. My past work involved using the harmonic map heat flow to study the rigidity of maps between closed manifolds by their singular values. <br><br>My interests in this area also extend to other key flows, including mean curvature flow, inverse mean curvature flow, and the Ricci flow. Beyond this, I am also interested in minimal submanifold theory and Kähler geometry.",
-         projects: [
-            "I plan to use Schoen and Yau's book, Lectures on Harmonic Maps, with a focus on its application to minimal surfaces."
-         ]
-     },
-     {
-        name: "Evan Tufte",
-         projectTag: "Analysis, Applied",
-         researchArea: "Analysis, Applied Mathematics",
-         website: "",
-         researchDescription: "I research mathematical quantum mechanics. I am interested in most topics within analysis and geometry.",
-         projects: [
-            "I am open to a wide variety of projects. Here are a couple of ideas for topics: Calculus of Variations, Chaotic Dynamics (Strogatz book), or Riemann Surfaces."
-         ]
-     },
-     {
-        name: "Sawyer Dobson",
-         projectTag: "Applied, Other",
-         researchArea: "CS Theory",
-         website: "",
-         researchDescription: "I'm studying questions quantum complexity theory, with a specific focus on topological quantum computing.",
-         projects: [
-            "Quantum computing, classical or quantum complexity theory."
-         ]
-     }
 
     // Add more mentors as they apply
 ];
