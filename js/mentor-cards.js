@@ -43,11 +43,11 @@ const mentors = [
     {
         name: "Qirui Peng",
          projectTag: "Analysis, Applied",
-         researchArea: "Analysis, PDEs",
+         researchArea: "Analysis, Applied Math, PDEs",
          website: "https://sites.google.com/uic.edu/qiruipeng/home",
-         researchDescription: "Partial Differential Equations, Mathematical fluid mechanics",
+         researchDescription: "Partial differential equations, Fluid mechanics, Dispersive equations",
          projects: [
-            "Textbook: The Three-Dimensional Navier-Stokes Equations Classical Theory by James C. Robinson, et al. Weak solutions of Euler and Navier-Stokes Equations, Onsager's Conjecture."
+            "Wellposedness of Schrodinger equations, Euler/Navier-Stokes equations"
          ]
      },
      {
