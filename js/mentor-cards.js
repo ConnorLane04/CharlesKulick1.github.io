@@ -371,7 +371,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const filterAppliedButton = document.getElementById('filter-applied-button');
     const filterNumberButton = document.getElementById('filter-number-button');
     const filterGeometryButton = document.getElementById('filter-geometry-button');
-    const filterOtherButton = document.getElementById('filter-other-button');
+    const filterCombinatoricsButton = document.getElementById('filter-combinatorics-button');
     const showAllButton = document.getElementById('show-all-button'); // Add this line
     
     filterAnalysisButton.addEventListener('click', () => {
