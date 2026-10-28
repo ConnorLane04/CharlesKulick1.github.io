@@ -398,8 +398,8 @@ document.addEventListener('DOMContentLoaded', () => {
         showMentorsByResearchArea('Geometry');
     });
 
-    filterOtherButton.addEventListener('click', () => {
-        showMentorsByResearchArea('Other');
+    filterCombinatoricsButton.addEventListener('click', () => {
+        showMentorsByResearchArea('Combinatorics');
     });
     
     // Add event listener for the "Show All" button
