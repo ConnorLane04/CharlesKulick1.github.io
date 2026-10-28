@@ -133,7 +133,7 @@ const mentors = [
         name: "Jeremy Khoo",
          projectTag: "Combinatorics",
          researchArea: "Algebra, Topology",
-         website: "https://web.math.ucsb.edu/~charleskulick/",
+         website: "",
          researchDescription: "My work is on the Haefliger invariant associated to a smooth (4k-1)-sphere embedded in a 6k-sphere, and how it can be represented and estimated using geometric information. I use concepts from algebraic topology, as well as from differential topology and geometry. Outside of my work I'm interested in some problems involving combinatorics, graph theory or algebra",
          projects: [
             "Pursuit-evasion games on graphs. Possible starting texts include \"An Invitation to Pursuit-Evasion Games and Graph Theory\" by Anthony Bonato or \"The Game of Cops and Robbers on Graphs\" by Bonato and Nowakowski."
