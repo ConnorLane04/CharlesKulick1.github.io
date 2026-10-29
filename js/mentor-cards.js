@@ -36,8 +36,7 @@ const mentors = [
          website: "",
          researchDescription: "Differential Geometry and Geometric Analysis",
          projects: [
-            "Hilbert Spaces, Fluid Mechanics, Applied Functional Analysis, Partial Differential Equations, Applied Analysis, Quantum Mechanics, Calculus of Variations",
-            "I am open to a large range of topics or projects. We can figure out something to work on together."
+            "Comarison Riemannian Geometry, Convergence of Riemannian manifolds, Cheeger-Colding Theory of Ricci limit space"
          ]
      },
     {
